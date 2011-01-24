@@ -1,0 +1,12 @@
+{
+    "name": "caching_service",
+    "description": "A simple service to cache generated data to the filesystem",
+    "version": "0.0.1",
+    "author": "James E. Marca <jmarca@translab.its.uci.edu>",
+    "directories": {
+        "lib": "./lib"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
