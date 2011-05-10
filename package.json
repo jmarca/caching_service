@@ -14,5 +14,9 @@
   },
   "files": [
     ""
-  ]
+  ],
+  "dependencies": {
+      "couchdb":">1.0.0"
+  },
+  "devDependencies": {}
 }
