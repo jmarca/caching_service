@@ -16,7 +16,8 @@
     ""
   ],
   "dependencies": {
-      "couchdb":">1.0.0"
+      "couchdb":"1.0.3",
+      "makedir": "0.0.2"
   },
   "devDependencies": {}
 }
