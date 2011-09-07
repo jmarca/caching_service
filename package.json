@@ -1,7 +1,7 @@
 {
   "name": "caching_service",
   "description": "A simple service to cache generated data to the filesystem",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": ""
   },
@@ -16,8 +16,8 @@
     ""
   ],
   "dependencies": {
-      "couchdb":"1.0.3",
-      "makedir": "0.0.2"
+    "couchdb": "1.0.3",
+    "makedir": "0.0.2"
   },
   "devDependencies": {}
 }
