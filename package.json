@@ -1,9 +1,10 @@
 {
   "name": "caching_service",
   "description": "A simple service to cache generated data to the filesystem",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
-    "url": ""
+        "type": "git",
+        "url": "https://github.com/jmarca/caching_service.git"
   },
   "author": "James E. Marca <jmarca@translab.its.uci.edu>",
   "directories": {
@@ -16,8 +17,7 @@
     ""
   ],
   "dependencies": {
-      "couchdb":"1.0.3",
-      "makedir": "~0.0.4"
+    "makedir": "~0.0.4"
   },
   "devDependencies": {}
 }
