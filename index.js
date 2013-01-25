@@ -1,1 +1,1 @@
-module.exports = require('./lib/caching_service.js');
+exports.file_Caching_service = require('./lib/file_cache.js');
